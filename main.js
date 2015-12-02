@@ -1,4 +1,4 @@
-# main.js #
+
 
 d3.json("nations.json", function(nations) {
   // everything in here!
